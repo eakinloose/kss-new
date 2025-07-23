@@ -18,5 +18,6 @@ This project demonstrates the basics of using **Jest** for unit testing in JavaS
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jest-kss-demo.git
-cd jest-kss-demo
+git clone https://github.com/eakinloose/kss-sterling-qa.git
+cd kss-sterling-qa
+npm install
