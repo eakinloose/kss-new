@@ -6,12 +6,12 @@ function sumTwoNumbers(a, b) {
   return a + b;
 }
 
-function findMaxNumberInArray(arr) {
-  return Math.max(...arr);
-}
-
 function findMinNumberInArray(arr) {
   return Math.min(...arr);
+}
+
+function findMaxNumberInArray(arr) {
+  return Math.max(...arr);
 }
 
 function reverseString(stng) {
