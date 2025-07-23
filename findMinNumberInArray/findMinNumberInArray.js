@@ -1,5 +1,5 @@
 function findMinNumberInArray(arr) {
-    return Math.min(...arr);
-  }
+  return Math.min(...arr);
+}
 
-  module.exports = findMinNumberInArray;
+module.exports = findMinNumberInArray;
